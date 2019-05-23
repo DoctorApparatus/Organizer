@@ -1,7 +1,7 @@
 package com.cyberstuck.organizer;
 
-import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 
 public class activity_landing extends AppCompatActivity {
 

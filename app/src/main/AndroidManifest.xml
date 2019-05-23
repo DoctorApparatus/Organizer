@@ -24,7 +24,7 @@
             android:name=".places_to_be"
             android:label="@string/title_activity_places_to_be"
             android:theme="@style/AppTheme.NoActionBar" />
-        <activity android:name=".MainActivity">
+        <activity android:name=".activity_login">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
